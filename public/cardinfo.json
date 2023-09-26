@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "/Resources/Health.png",
+    "title": "Health",
+    "categoryname": "Clean water for children",
+    "price": "$290.00",
+    "cardColor": "#0052FF26",
+    "textColor": "#0052FF",
+    "donation_description": "There are many things that can be done to ensure that all people have access to clean water. Access to clean water is a fundamental human right, yet millions of people around the world still lack access to safe drinking water. This donation aims to provide clean and safe drinking water for children in need."
+  },
+  {
+    "id": 2,
+    "image": "/Resources/Education.png",
+    "title": "Education",
+    "categoryname": "Good education",
+    "price": "$290.00",
+    "cardColor": "#FF444A26",
+    "textColor": "#FF444A",
+    "donation_description": "Education is the key to a brighter future. This donation supports initiatives to ensure that every child has access to quality education. It helps provide resources, support teachers, and create a positive learning environment for students, giving them the opportunity to reach their full potential."
+  },
+  {
+    "id": 3,
+    "image": "/Resources/clothing.png",
+    "title": "Clothing",
+    "categoryname": "Used Clothing Drive",
+    "price": "$290.00",
+    "cardColor": "#79C23F26",
+    "textColor": "#79C23F",
+    "donation_description": "Many people struggle to afford basic clothing. This donation contributes to a used clothing drive, providing clothing to those in need. Your support helps keep individuals and families warm and protected from the elements."
+  },
+  {
+    "id": 4,
+    "image": "/Resources/Food.png",
+    "title": "Food",
+    "categoryname": "Better Food for Everyone",
+    "price": "$290.00",
+    "cardColor": "#F8714726",
+    "textColor": "#F87147",
+    "donation_description": "Access to nutritious food is essential for a healthy life. This donation supports initiatives to provide better food options for everyone. It helps address food insecurity and ensures that individuals and families have access to nutritious meals."
+  },
+  {
+    "id": 5,
+    "image": "/Resources/Food.png",
+    "title": "Food",
+    "categoryname": "Better Food for Everyone",
+    "price": "$290.00",
+    "cardColor": "#F8714726",
+    "textColor": "#F87147",
+    "donation_description": "Access to nutritious food is essential for a healthy life. This donation supports initiatives to provide better food options for everyone. It helps address food insecurity and ensures that individuals and families have access to nutritious meals."
+  },
+  {
+    "id": 6,
+    "image": "/Resources/clothing.png",
+    "title": "Clothing",
+    "categoryname": "Used Clothing Drive",
+    "price": "$290.00",
+    "cardColor": "#79C23F26",
+    "textColor": "#79C23F",
+    "donation_description": "Many people struggle to afford basic clothing. This donation contributes to a used clothing drive, providing clothing to those in need. Your support helps keep individuals and families warm and protected from the elements."
+  },
+  {
+    "id": 7,
+    "image": "/Resources/Education.png",
+    "title": "Education",
+    "categoryname": "Good education",
+    "price": "$290.00",
+    "cardColor": "#FF444A26",
+    "textColor": "#FF444A",
+    "donation_description": "Education is the key to a brighter future. This donation supports initiatives to ensure that every child has access to quality education. It helps provide resources, support teachers, and create a positive learning environment for students, giving them the opportunity to reach their full potential."
+  },
+  {
+    "id": 8,
+    "image": "/Resources/Health.png",
+    "title": "Health",
+    "categoryname": "Clean water for children",
+    "price": "$290.00",
+    "cardColor": "#0052FF26",
+    "textColor": "#0052FF",
+    "donation_description": "There are many things that can be done to ensure that all people have access to clean water. Access to clean water is a fundamental human right, yet millions of people around the world still lack access to safe drinking water. This donation aims to provide clean and safe drinking water for children in need."
+  },
+  {
+    "id": 9,
+    "image": "/Resources/Health.png",
+    "title": "Health",
+    "categoryname": "Clean water for children",
+    "price": "$290.00",
+    "cardColor": "#0052FF26",
+    "textColor": "#0052FF",
+    "donation_description": "There are many things that can be done to ensure that all people have access to clean water. Access to clean water is a fundamental human right, yet millions of people around the world still lack access to safe drinking water. This donation aims to provide clean and safe drinking water for children in need."
+  },
+  {
+    "id": 10,
+    "image": "/Resources/Education.png",
+    "title": "Education",
+    "categoryname": "Good education",
+    "price": "$290.00",
+    "cardColor": "#FF444A26",
+    "textColor": "#FF444A",
+    "donation_description": "Education is the key to a brighter future. This donation supports initiatives to ensure that every child has access to quality education. It helps provide resources, support teachers, and create a positive learning environment for students, giving them the opportunity to reach their full potential."
+  },
+  {
+    "id": 11,
+    "image": "/Resources/clothing.png",
+    "title": "Clothing",
+    "categoryname": "Used Clothing Drive",
+    "price": "$290.00",
+    "cardColor": "#79C23F26",
+    "textColor": "#79C23F",
+    "donation_description": "Many people struggle to afford basic clothing. This donation contributes to a used clothing drive, providing clothing to those in need. Your support helps keep individuals and families warm and protected from the elements."
+  },
+  {
+    "id": 12,
+    "image": "/Resources/Food.png",
+    "title": "Food",
+    "categoryname": "Better Food for Everyone",
+    "price": "$290.00",
+    "cardColor": "#F8714726",
+    "textColor": "#F87147",
+    "donation_description": "Access to nutritious food is essential for a healthy life. This donation supports initiatives to provide better food options for everyone. It helps address food insecurity and ensures that individuals and families have access to nutritious meals."
+  }
+]
