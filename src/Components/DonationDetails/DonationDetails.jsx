@@ -10,7 +10,7 @@ const DonationDetails = () => {
 
   const handleDonate = () => {
     saveDonationCard(idInt);
-    toast("addedd !!!!!!");
+    toast("Added donation", idInt);
   };
   return (
     <>
