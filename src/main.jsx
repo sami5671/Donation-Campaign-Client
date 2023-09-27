@@ -4,10 +4,11 @@ import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Root from "./Components/Root/Root";
 import Home from "./Components/Home/Home";
-import ErrorPage from "./Components/ErrorPage/ErrorPage";
+
 import Donation from "./Components/Donation/Donation";
 import Statistics from "./Components/Statistics/Statistics";
 import DonationDetails from "./Components/DonationDetails/DonationDetails";
+import ErrorPage from "./Components/ErrorPage/ErrorPage";
 
 const router = createBrowserRouter([
   {

@@ -43,7 +43,7 @@ const Header = () => {
                 {links}
               </ul>
             </div>
-            <img className="w-1/2 lg:w-1/4" src="/Resources/Logo.png" alt="" />
+            <img className="w-1/2 lg:w-1/4" src="/Logo.png" alt="" />
           </div>
           <div className="navbar-center hidden lg:flex">
             <ul className="menu menu-horizontal px-12 gap-10">{links}</ul>

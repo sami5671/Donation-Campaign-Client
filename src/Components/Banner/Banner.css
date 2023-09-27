@@ -1,5 +1,5 @@
 .background-img {
-  background: url("/public/donation1.jpg"),
+  background: url("/public/banner.jpg"),
     linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
   background-blend-mode: overlay;
   background-repeat: no-repeat;

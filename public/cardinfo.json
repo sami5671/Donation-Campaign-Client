@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/Resources/Health.png",
+    "image": "/public/Health.png",
     "title": "Health",
     "categoryname": "Clean water for children",
     "price": "$290.00",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "image": "/Resources/Education.png",
+    "image": "/public/Education.png",
     "title": "Education",
     "categoryname": "Good education",
     "price": "$290.00",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "/Resources/clothing.png",
+    "image": "/public/clothing.png",
     "title": "Clothing",
     "categoryname": "Used Clothing Drive",
     "price": "$290.00",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "image": "/Resources/Food.png",
+    "image": "/public/Food.png",
     "title": "Food",
     "categoryname": "Better Food for Everyone",
     "price": "$290.00",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "image": "/Resources/Food.png",
+    "image": "/public/Food.png",
     "title": "Food",
     "categoryname": "Better Food for Everyone",
     "price": "$290.00",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "image": "/Resources/clothing.png",
+    "image": "/public/clothing.png",
     "title": "Clothing",
     "categoryname": "Used Clothing Drive",
     "price": "$290.00",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "image": "/Resources/Education.png",
+    "image": "/public/Education.png",
     "title": "Education",
     "categoryname": "Good education",
     "price": "$290.00",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "image": "/Resources/Health.png",
+    "image": "/public/Health.png",
     "title": "Health",
     "categoryname": "Clean water for children",
     "price": "$290.00",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "image": "/Resources/Health.png",
+    "image": "/public/Health.png",
     "title": "Health",
     "categoryname": "Clean water for children",
     "price": "$290.00",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "image": "/Resources/Education.png",
+    "image": "/public/Education.png",
     "title": "Education",
     "categoryname": "Good education",
     "price": "$290.00",
@@ -101,7 +101,7 @@
   },
   {
     "id": 11,
-    "image": "/Resources/clothing.png",
+    "image": "/public/clothing.png",
     "title": "Clothing",
     "categoryname": "Used Clothing Drive",
     "price": "$290.00",
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "image": "/Resources/Food.png",
+    "image": "/public/Food.png",
     "title": "Food",
     "categoryname": "Better Food for Everyone",
     "price": "$290.00",

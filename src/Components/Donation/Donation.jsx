@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useLoaderData } from "react-router-dom";
-import { getStoredDonationCard } from "../../Utility/localStorage";
+import { getStoredDonationCard } from "../Utility/localStorage";
+
 const Donation = () => {
   const donationCards = useLoaderData();
   const [dCard, setDonationCards] = useState([]);
@@ -58,7 +59,7 @@ const Donation = () => {
             </div>
           ))}
         </div>
-        <div className={dataLength === dCard.length && "hidden"}>
+        <div className={dataLength > dCard.length && "hidden"}>
           <button
             className="btn btn-primary"
             onClick={() => setDataLength(dCard.length)}
